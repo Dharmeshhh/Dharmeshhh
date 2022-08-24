@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=dharmeshhh&label=Profile%20views&color=0e75b6&style=flat" alt="dharmeshhh" /> 
   <img alt="Dharmeshkumar's GitHub Followers" src="https://img.shields.io/github/followers/dharmeshhh?style=flat&color=blue&label=Followers"/>
   <img alt="Dharmeshkumar's GitHub Stars" src="https://img.shields.io/github/stars/dharmeshhh?style=flat&color=blue&label=Stars"/>
-  <img alt="MIT LICENCE" src="https://img.shields.io/github/license/dharmeshhh/dharmeshhh?style=flat&color=blue&label=Licence"/>  
 </p>
 <p align="left"> <a href="https://twitter.com/dhxrmxsh" target="blank"><img src="https://img.shields.io/twitter/follow/dhxrmxsh?logo=twitter&style=for-the-badge" alt="dhxrmxsh" /></a> </p>
 
