@@ -20,9 +20,6 @@
 ## 🏆 Github Profile Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmeshhh" alt="dharmeshhh" /></a> </p>
 
-## 🎇 Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmeshhh&show_icons=true&locale=en&layout=compact" alt="dharmeshhh" /></p>
-
 ## 🎊 Github Metrices and Languages Used
 <div align="center">
 <table>
@@ -34,6 +31,9 @@
 </tbody>
 </table>
 </div>
+
+## 🎇 Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmeshhh&show_icons=true&locale=en&layout=compact" alt="dharmeshhh" /></p>
 
 
 
