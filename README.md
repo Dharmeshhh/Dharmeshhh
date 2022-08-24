@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Reactjs, NodeJs, JavaScript, Nginx, Ubuntu Deployment, MySQL**
 
-- ⚡ Fun fact: **I love cooking, festivals and exploring new trails  **
+- ⚡ Fun fact: **I love cooking, festivals and exploring new trails**
 
 - 📫 How to reach me **https://dharmeshkumar.com**
 
