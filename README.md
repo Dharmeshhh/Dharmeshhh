@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmeshhh" alt="dharmeshhh" /></a> </p>
 
 ## 🎊 Github Metrices and Languages Used
-<div align="center">
+<div align="left">
 <table>
 <tbody>
 <tr>
