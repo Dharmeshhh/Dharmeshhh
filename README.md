@@ -6,7 +6,7 @@
   <img alt="Dharmeshkumar's GitHub Stars" src="https://img.shields.io/github/stars/dharmeshhh?style=flat&color=blue&label=Stars"/>
 </p>
 <p align="left"> <a href="https://twitter.com/dhxrmxsh" target="blank"><img src="https://img.shields.io/twitter/follow/dhxrmxsh?logo=twitter&style=for-the-badge" alt="dhxrmxsh" /></a> </p>
-
+<a href="https://instagram.com/dhxrmxsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhxrmxsh" height="30" width="40" /></a>
 - 🔭 I’m currently working on [Nginx Load Balancing and Micro-service Architecture for my portfolio](https://dharmeshkumar.com/)
 
 - 🌱 I’m currently learning **.NET, Redux and Keras**
